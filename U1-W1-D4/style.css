@@ -1,0 +1,71 @@
+body{
+    display: block inline;
+    width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 4em;
+  background-image: url(./img/sfondo.png);
+    
+  
+}
+#logo{
+    background-image: url(./img/logo.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 5em;
+    width: 16em;
+   
+}
+
+
+
+.img{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 7px;
+    margin-left: 3em;
+    margin-top: 4em;
+    
+  
+ 
+
+}
+
+
+
+   
+
+
+header{
+    display: inline-block;
+    margin-bottom: -15.5px;;
+    text-align: center; 
+    border: solid  0px;
+    background: linear-gradient(0deg, rgba(41,130,134,1) 89%, rgba(13,126,130,1) 100%);
+    width: 21em;
+    margin-top: 3em;
+    box-shadow: -3px 1px 27px -1px #000000;
+    color: white;
+    
+}
+
+
+main{
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    box-shadow: -3px 1px 27px -1px black;
+    margin-top: 2em;
+
+}
+thead{
+    color: aliceblue;
+    background-color: blue;
+    padding-bottom: 1em;
+}
+iframe{
+    width: 21em;
+    border-radius: 3em;
+}
